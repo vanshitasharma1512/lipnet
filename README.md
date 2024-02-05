@@ -1,0 +1,1 @@
+Leveraging machine learning and TensorFlow, our lip reading project employs convolutional neural networks for real-time speech interpretation, advancing human-computer interaction through precise lip movement analysis
